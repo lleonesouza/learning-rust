@@ -9,7 +9,7 @@
 
 ## 0 - Snake Game
 
-![Alt Text](blob:https://giphy.com/72606deb-a806-412c-8869-c699f6c9fe54)
+![Alt Text](https://media2.giphy.com/media/Lmr1q4hxqb2qZVWBwC/giphy.gif)
 
 
 

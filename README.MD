@@ -9,8 +9,7 @@
 
 ## 0 - Snake Game
 
-![Alt Text](https://media2.giphy.com/media/Lmr1q4hxqb2qZVWBwC/giphy.gif)
-
+[![snake game written in rustlang](https://media2.giphy.com/media/Lmr1q4hxqb2qZVWBwC/giphy.gif)](./snake_game)
 
 
 --
